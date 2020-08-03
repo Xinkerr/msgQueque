@@ -23,7 +23,7 @@
 * Date:    2019/8/5
 * Author:  鄭訫
 * Version: 1.0
-* Github:  https://github.com/Xinkerr/tiny-event-driver
+* Github:  https://github.com/Xinkerr/msgQueque
 * Mail:    634326056@qq.com
 *
 * Disclaimer:
